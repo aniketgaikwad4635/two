@@ -1,0 +1,1 @@
+add twelve.txt file in second commit in 'new-feature' branch
